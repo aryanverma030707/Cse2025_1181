@@ -10,8 +10,8 @@
       <body>
         <p> 
             <b> Lorem ipsum.</b> <i>Lorem ipsum is a dummy or placeholder text commonly used in graphic design</i>, <tt> <big>publishing, and web development.</big></tt> <mark><small> Its purpose is to permit a page layout to </small> </mark>.Professional lorem ipsum generator for typographers
-            Lorem Ipsum is a pseudo-Latin text used in web design, typography, layout, and printing in place of English to emphasise design elements over content.
-                <br> <mark>  H<sub> 2</sub> 0 <br> 
+Lorem Ipsum is a pseudo-Latin text used in web design, typography, layout, and printing in place of English to emphasise design elements over content.
+  <br> <mark>  H<sub> 2</sub> 0 <br> 
                     5<sup> 2 </sup>=25</mark>
                         </b>
                           </p>
